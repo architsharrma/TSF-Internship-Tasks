@@ -1,6 +1,6 @@
 # THE SPARK-FOUNDATION-Internship
 This repository contain all the tasks done by me during my internship with The Spark Foundation.
-# Task 1 : To Improve Your Linkdln Profile:
+# Task 1 : To Improve Your Linkedln Profile:
 https://www.linkedin.com/in/archit-sharma-8329a6172/
 
 # Task 2:To Explore Supervised Machine Learning:
