@@ -8,3 +8,5 @@ In this regression task we will predict the percentage of marks that a student i
 What we have to predict score if a student study for 9.25 hours in a day?
 # Task-3: To Explore Unsupervised Machine Learning:
 In this task We have to predict the optimum number of clusters and represent it visually.
+# Task-4 To Explore Decision Tree Algorithm:
+For the given 'iris' dataset create a decision tree classifier and visualize it graphically.the purpose is if we feed any new data to this classifier it would be able to predict right class accordingly.
